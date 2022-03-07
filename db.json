@@ -1,0 +1,987 @@
+{
+  "home": {
+    "components": [
+      {
+        "type": "Hero",
+        "data": {
+          "heroHeadingTop": {
+            "tag": "h1",
+            "size": "lg",
+            "content": "The way the<br/>world is moving."
+          },
+          "heroHeadingBottom": {
+            "tag": "h2",
+            "size": "sm",
+            "content": "Your moving needs | Searching"
+          }
+        }
+      },
+      {
+        "type": "IconCardGrid",
+        "data": {
+          "cards": [
+            {
+              "icon": {
+                "src": "https://i.imgur.com/QTbP7gf.png"
+              },
+              "heading": "Estate Agent",
+              "button": {
+                "label": "More details",
+                "url": "#"
+              }
+            },
+            {
+              "icon": {
+                "src": "https://i.imgur.com/8hufObq.png"
+              },
+              "heading": "Mortgage Broker",
+              "button": {
+                "label": "More details",
+                "url": "#"
+              }
+            },
+            {
+              "icon": {
+                "src": "https://i.imgur.com/rMclzop.png"
+              },
+              "heading": "Mover",
+              "button": {
+                "label": "More details",
+                "url": "#"
+              }
+            },
+            {
+              "icon": {
+                "src": "https://i.imgur.com/sk1ONWI.png"
+              },
+              "heading": "Conveyancer",
+              "button": {
+                "label": "More details",
+                "url": "#"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "ImageWithTextCarousel",
+        "data": {
+          "slides": [
+            {
+              "heading": "Search",
+              "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. ",
+              "button": {
+                "label": "Explore",
+                "url": "#"
+              },
+              "image": {
+                "src": "https://i.imgur.com/0LKNoj9.png",
+                "alt": ""
+              }
+            },
+            {
+              "heading": "Search",
+              "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. ",
+              "button": {
+                "label": "Explore",
+                "url": "#"
+              },
+              "image": {
+                "src": "https://i.imgur.com/0LKNoj9.png",
+                "alt": ""
+              }
+            },
+            {
+              "heading": "Search",
+              "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. ",
+              "button": {
+                "label": "Explore",
+                "url": "#"
+              },
+              "image": {
+                "src": "https://i.imgur.com/0LKNoj9.png",
+                "alt": ""
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "LogoGrid",
+        "data": {
+          "logos": [
+            {
+              "src": "https://i.imgur.com/sDlsg6Y.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/bVy6bIf.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/ZSAQEo7.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/sGq5Vxh.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/QshfvVt.png",
+              "alt": ""
+            }
+          ]
+        }
+      },
+      {
+        "type": "TestimonialsCarousel",
+        "data": {
+          "background": "grey",
+          "heading": {
+            "tag": "h3",
+            "size": "md",
+            "content": "What our clients say"
+          },
+          "reviews": [
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 5,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+          ]
+        }
+      },
+      {
+        "type": "CardGrid",
+        "data": {
+          "cards": [
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": "Content block",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, a",
+              "button": {
+                "label": "More Details",
+                "url": "#",
+                "type": "secondary"
+              }
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": "Content block",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, a",
+              "button": {
+                "label": "More Details",
+                "url": "#",
+                "type": "secondary"
+              }
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": "Content block",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, a",
+              "button": {
+                "label": "More Details",
+                "url": "#",
+                "type": "secondary"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "Statistics",
+        "data": {
+          "background": "pale-blue",
+          "stats": [
+            {
+              "value": "2.4 mil",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "value": "2.4 mil",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "value": "2.4 mil",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "value": "2.4 mil",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "value": "2.4 mil",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "value": "2.4 mil",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+          ]
+        }
+      },
+      {
+        "type": "MeetTheTeam",
+        "data": {
+          "heading": {
+            "tag": "h3",
+            "size": "md",
+            "content": "Meet the team"
+          },
+          "people": [
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/qJANoNc.png",
+                "alt": ""
+              },
+              "name": "Firstname Lastname",
+              "jobTitle": "Job Title",
+              "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, ac eleifend est. In hac habitasse platea dictumst. Nunc tempor quis eros ac porta. Nullam pellentesque luctus porttitor.",
+              "logos": [
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ],
+              "links": [
+                {
+                  "src": "https://i.imgur.com/bVy6bIf.png"
+                },
+                {
+                  "src": "https://i.imgur.com/sDlsg6Y.png"
+                },
+                {
+                  "src": "https://i.imgur.com/ZSAQEo7.png"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "Form",
+        "data": {
+          "heading": {
+            "tag": "h3",
+            "size": "md",
+            "content": "Never miss our latest news"
+          },
+          "background": "grey",
+          "image": {
+            "src": "https://i.imgur.com/kYiq66w.jpg",
+            "alt": ""
+          }
+        }
+      }
+    ]
+  },
+  "what-we-do": {
+    "components": [
+      {
+        "type": "Hero",
+        "data": {
+          "heroHeadingTop": {
+            "tag": "h1",
+            "size": "lg",
+            "content": "The way the<br/>world is moving."
+          },
+          "heroHeadingBottom": {
+            "tag": "h2",
+            "size": "sm",
+            "content": "Your moving needs | Searching"
+          }
+        }
+      },
+      {
+        "type": "ImageWithText",
+        "data": {
+          "heading": {
+            "tag": "h2",
+            "size": "md",
+            "content": "Estate agent"
+          },
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. ",
+          "button": {
+            "label": "Contact Us",
+            "url": "#"
+          },
+          "icon": {
+            "src": "https://i.imgur.com/QTbP7gf.png",
+            "alt": ""
+          },
+          "image": {
+            "src": "https://i.imgur.com/1R6ASuJ.jpg",
+            "alt": ""
+          }
+        }
+      },
+      {
+        "type": "VideoWithText",
+        "data": {
+          "background": "grey",
+          "heading": {
+            "tag": "h2",
+            "size": "md",
+            "content": "Watch our latest video"
+          },
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. ",
+          "button": {
+            "label": "Subscribe for more",
+            "icon": "youtube-play",
+            "url": "#"
+          },
+          "video": {
+            "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "poster": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis"
+          }
+        }
+      },
+      {
+        "type": "LogoGrid",
+        "data": {
+          "logos": [
+            {
+              "src": "https://i.imgur.com/sDlsg6Y.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/bVy6bIf.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/ZSAQEo7.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/sGq5Vxh.png",
+              "alt": ""
+            },
+            {
+              "src": "https://i.imgur.com/QshfvVt.png",
+              "alt": ""
+            }
+          ]
+        }
+      },
+      {
+        "type": "Cta",
+        "data": {
+          "background": "pale-blue",
+          "image": {
+            "src": "https://i.imgur.com/pV60LMy.png",
+            "alt": ""
+          },
+          "heading": {
+            "tag": "h3",
+            "size": "md",
+            "content": "Stay up to date with the<br/>latest news."
+          },
+          "button": {
+            "label": "Sign up",
+            "url": "#",
+            "type": "secondary"
+          }
+        }
+      },
+      {
+        "type": "ImageCardGrid",
+        "data": {
+          "heading": {
+            "tag": "h3",
+            "size": "md",
+            "content": "Useful Resources"
+          },
+          "button": {
+            "label": "View more",
+            "url": "#",
+            "type": "secondary"
+          },
+          "cards": [
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": {
+                "tag": "h3",
+                "size": "xs",
+                "content": "10 things you need to know about moving house"
+              },
+              "button": {
+                "label": "View more",
+                "url": "#",
+                "type": "secondary"
+              }
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": {
+                "tag": "h3",
+                "size": "xs",
+                "content": "10 things you need to know about moving house"
+              },
+              "button": {
+                "label": "View more",
+                "url": "#",
+                "type": "secondary"
+              }
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": {
+                "tag": "h3",
+                "size": "xs",
+                "content": "10 things you need to know about moving house"
+              },
+              "button": {
+                "label": "View more",
+                "url": "#",
+                "type": "secondary"
+              }
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": {
+                "tag": "h3",
+                "size": "xs",
+                "content": "10 things you need to know about moving house"
+              },
+              "button": {
+                "label": "View more",
+                "url": "#",
+                "type": "secondary"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "TestimonialsCarousel",
+        "data": {
+          "background": "grey",
+          "heading": {
+            "tag": "h3",
+            "size": "md",
+            "content": "What our clients say"
+          },
+          "reviews": [
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 5,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+              "profile": "https://i.imgur.com/NyVSYDC.png",
+              "name": "Joe Bloggs",
+              "username": "joe_bloggs",
+              "rating": 3,
+              "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+          ]
+        }
+      },
+      {
+        "type": "CardGrid",
+        "data": {
+          "cards": [
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": "Content block",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, a",
+              "button": {
+                "label": "More Details",
+                "url": "#",
+                "type": "secondary"
+              }
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": "Content block",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, a",
+              "button": {
+                "label": "More Details",
+                "url": "#",
+                "type": "secondary"
+              }
+            },
+            {
+              "image": {
+                "src": "https://i.imgur.com/MejPj5q.png",
+                "alt": ""
+              },
+              "heading": "Content block",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Vivamus sit amet rhoncus elit, a",
+              "button": {
+                "label": "More Details",
+                "url": "#",
+                "type": "secondary"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "Accordion",
+        "data": {
+          "heading": {
+            "tag": "h3",
+            "size": "md",
+            "content": "FAQS"
+          },
+          "button": {
+            "label": "View more",
+            "url": "#",
+            "type": "secondary"
+          },
+          "items": [
+            {
+              "label": "FAQS accordion section?",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque."
+            },
+            {
+              "label": "FAQS accordion section?",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque."
+            },
+            {
+              "label": "FAQS accordion section?",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan dolor ut nulla laoreet varius. Phasellus luctus odio et purus efficitur pellentesque."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "who-we-are": {
+    "components": [
+      {
+        "type": "Hero",
+        "data": {
+          "heroHeadingTop": {
+            "tag": "h1",
+            "size": "lg",
+            "content": "The way the<br/>world is moving."
+          },
+          "heroHeadingBottom": {
+            "tag": "h2",
+            "size": "sm",
+            "content": "Your moving needs | Searching"
+          }
+        }
+      }
+    ]
+  },
+  "our-solutions": {
+    "components": [
+      {
+        "type": "Hero",
+        "data": {
+          "heroHeadingTop": {
+            "tag": "h1",
+            "size": "lg",
+            "content": "The way the<br/>world is moving."
+          },
+          "heroHeadingBottom": {
+            "tag": "h2",
+            "size": "sm",
+            "content": "Your moving needs | Searching"
+          }
+        }
+      }
+    ]
+  },
+  "contact": {
+    "components": [
+      {
+        "type": "Hero",
+        "data": {
+          "heroHeadingTop": {
+            "tag": "h1",
+            "size": "lg",
+            "content": "The way the<br/>world is moving."
+          },
+          "heroHeadingBottom": {
+            "tag": "h2",
+            "size": "sm",
+            "content": "Your moving needs | Searching"
+          }
+        }
+      }
+    ]
+  }
+}
